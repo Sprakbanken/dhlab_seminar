@@ -10,12 +10,12 @@
 
 
 ## Lenker til apper
-[NB Ngram](https://www.nb.no/ngram/)
-[Dagsplott](https://dh.nb.no/run/dagsplott/)
-[Bildeappen](https://dh.nb.no/run/bildesok/)
-[Korpus](https://dh.nb.no/run/korpus/)
-[Konkordans](https://dh.nb.no/run/konkordans/)
-[Kollokasjon](https://dh.nb.no/run/kollokasjon/)
+[NB Ngram](https://www.nb.no/ngram/)  
+[Dagsplott](https://dh.nb.no/run/dagsplott/)  
+[Bildeappen](https://dh.nb.no/run/bildesok/)  
+[Korpus](https://dh.nb.no/run/korpus/)  
+[Konkordans](https://dh.nb.no/run/konkordans/)  
+[Kollokasjon](https://dh.nb.no/run/kollokasjon/)  
 
 ## Slides
 TODO: legg inn slides i repo og relativ lenke
