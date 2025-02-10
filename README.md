@@ -1,12 +1,12 @@
-# Dhlabseminar på Høgskolen i Østfold
+# Dhlabseminar på Høgskolen i Østfold 13.februar
 
 ## Tidsplan 
-10:00~10:15 Intro
-10:15~11:00 N-gram og dagsplott
-11:00~11:15 Pause
-11:15~12:00 Bildeappen
-12:00~13:00 Lunsjpause
-13:00~14:00 Korpus, konkordans og kollokasjon
+- 10:00\~10:15 Intro
+- 10:15\~11:00 N-gram og dagsplott
+- 11:00\~11:15 Pause
+- 11:15\~12:00 Bildeappen
+- 12:00\~13:00 Lunsjpause
+- 13:00\~14:00 Korpus, konkordans og kollokasjon
 
 
 ## Lenker til apper
