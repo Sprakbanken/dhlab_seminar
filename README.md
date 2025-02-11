@@ -18,6 +18,6 @@
 [Kollokasjon](https://dh.nb.no/run/kollokasjon/)  
 
 ## Slides
-TODO: legg inn slides i repo og relativ lenke
+[N-gram og dagsplott slides](https://bibno-my.sharepoint.com/:p:/g/personal/tita_enstad_nb_no/EaeiVrdMtNJMidzxWm9IPkMB75ZO0g_YfTIVn-I_nioiFA?e=8bYPfd )
 
 Lenke til korpus, konkordans- og kollokasjonspresentasjon: https://bibno-my.sharepoint.com/:p:/g/personal/thea_tollersrud_nb_no/EY09DzwyhixPrI15v0Y_K38B0Jz4hNEX0OUmNkIxIf85XA
