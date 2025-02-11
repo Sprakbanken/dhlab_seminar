@@ -19,3 +19,5 @@
 
 ## Slides
 TODO: legg inn slides i repo og relativ lenke
+
+Lenke til korpus, konkordans- og kollokasjonspresentasjon: https://bibno-my.sharepoint.com/:p:/g/personal/thea_tollersrud_nb_no/EY09DzwyhixPrI15v0Y_K38B0Jz4hNEX0OUmNkIxIf85XA
