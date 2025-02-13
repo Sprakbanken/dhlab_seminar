@@ -17,7 +17,13 @@
 [Konkordans](https://dh.nb.no/run/konkordans/)  
 [Kollokasjon](https://dh.nb.no/run/kollokasjon/)  
 
-## Slides
+## Ressurser
+[Introduksjonsslides](2025-02-14-Intro.pdf)
+
 [N-gram og dagsplott slides](https://bibno-my.sharepoint.com/:p:/g/personal/tita_enstad_nb_no/EaeiVrdMtNJMidzxWm9IPkMB75ZO0g_YfTIVn-I_nioiFA?e=8bYPfd )
+
+**Bildesøk:**
+ * [Slides](bildesøk/2025-02-14-Bildesøk.pdf)
+ * [Inspirasjonsideer](bildesøk/inspirasjon.md)
 
 Lenke til korpus, konkordans- og kollokasjonspresentasjon: https://bibno-my.sharepoint.com/:p:/g/personal/thea_tollersrud_nb_no/EY09DzwyhixPrI15v0Y_K38B0Jz4hNEX0OUmNkIxIf85XA
