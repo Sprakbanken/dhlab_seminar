@@ -14,7 +14,7 @@
 [Dagsplott](https://dh.nb.no/run/dagsplott/)  
 [Bildeappen](https://dh.nb.no/run/bildesok/)  
 [Korpus](https://dh.nb.no/run/korpus/)  
-[Korpus (beta)] (https://corpus-webapp-578185840402.europe-north1.run.app/)
+[Korpus_beta](https://corpus-webapp-578185840402.europe-north1.run.app/)
 [Konkordans](https://dh.nb.no/run/konkordans/)  
 [Kollokasjon](https://dh.nb.no/run/kollokasjon/)  
 
